@@ -8,6 +8,10 @@ An Android App in which we can save our memorable places by long clicking the pl
 
 https://drive.google.com/file/d/1wqaJMzVkDpKVWR4DA1kWtHITJzYl1HdA/view?usp=drivesdk
 
+## Permissions:
+
+The application requires internet permission to work.
+
 ## Compatibility
 
 Software Compatibility: It is compatible with API 23 or greater.
